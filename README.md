@@ -1,3 +1,3 @@
 # CiteWebView
 网页引用WebView+高斯模糊
-![image](https://raw.githubusercontent.com/GuiZhouAndroid/WaveSwipeRefresh/master/Picture.jpg)
+![image](https://raw.githubusercontent.com/GuiZhouAndroid/CiteWebView/master/Picture.jpg)
